@@ -1,2 +1,4 @@
 # hello-world
-starting repo
+starting repoitory
+
+This is a just some text to show changes to the code. Ok.
